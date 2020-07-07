@@ -1,0 +1,12 @@
+Package: soilsaxonomy
+Type: Package
+Title: Functions adapted from logic in the Keys to Soil Taxonomy
+Version: 0.0.0.9000
+Author: Marc Olds, Anthony Toby O'Geen
+Maintainer: Marc Olds <maolds@ucdavis.edu>
+Description: Provides a suite of functions to automatically calculate USDA soil taxonomy.
+License: GLP-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    aqp (>= 1.17)
